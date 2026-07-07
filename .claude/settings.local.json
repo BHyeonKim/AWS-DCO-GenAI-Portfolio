@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Bash(agy --version)"
+      "Bash(agy --version)",
+      "Bash(git filter-repo *)",
+      "Bash(git --version)",
+      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter \"git rm --cached --ignore-unmatch dco_models.txt\" --prune-empty -- --all)",
+      "Bash(xargs -n1 git update-ref -d)",
+      "Bash(git stash *)",
+      "Bash(git reflog *)",
+      "Bash(git gc *)"
     ]
   }
 }
