@@ -1,0 +1,503 @@
+2026-07-06 00:26:20 server01 INFO === log start (server01) ===
+2026-07-06 00:26:48 server01 INFO BGP session established with peer 10.0.4.204
+2026-07-06 00:26:53 server01 INFO interface eth3 up
+2026-07-06 00:27:14 server01 INFO config sync completed
+2026-07-06 00:27:44 server01 INFO packet forwarded to 10.0.4.92
+2026-07-06 00:27:48 server01 INFO config sync completed
+2026-07-06 00:28:28 server01 INFO heartbeat ok
+2026-07-06 00:28:33 server01 INFO temperature nominal 41C
+2026-07-06 00:29:03 server01 INFO power supply 2 nominal
+2026-07-06 00:29:07 server01 INFO SNMP poll ok
+2026-07-06 00:29:25 server01 INFO power supply 1 nominal
+2026-07-06 00:30:01 server01 INFO SNMP poll ok
+2026-07-06 00:30:10 server01 INFO linkdown_timer reset
+2026-07-06 00:30:45 server01 INFO buffer utilization 63%
+2026-07-06 00:30:54 server01 INFO CRCcheck OK
+2026-07-06 00:31:10 server01 INFO temperature nominal 41C
+2026-07-06 00:31:31 server01 INFO CRCcheck OK
+2026-07-06 00:31:46 server01 INFO Link status: UP
+2026-07-06 00:32:17 server01 ERROR CRC ERROR detected on eth0
+    -> frame check sequence mismatch, 832 bad frames
+2026-07-06 00:32:33 server01 INFO buffer utilization 76%
+2026-07-06 00:33:00 server01 INFO interface eth0 up
+2026-07-06 00:33:22 server01 INFO power supply 1 nominal
+2026-07-06 00:33:29 server01 INFO SNMP poll ok
+2026-07-06 00:33:41 server01 INFO CRCcheck OK
+2026-07-06 00:33:53 server01 INFO buffer utilization 59%
+2026-07-06 00:34:18 server01 INFO SNMP poll ok
+2026-07-06 00:34:24 server01 INFO linkdown_timer reset
+2026-07-06 00:34:50 server01 INFO power supply 2 nominal
+2026-07-06 00:35:16 server01 INFO Link status: UP
+2026-07-06 00:35:20 server01 ERROR CRC Error on eth0 count=21
+2026-07-06 00:35:52 server01 INFO buffer utilization 49%
+2026-07-06 00:36:25 server01 INFO heartbeat ok
+2026-07-06 00:36:42 server01 INFO power supply 2 nominal
+2026-07-06 00:37:08 server01 INFO SNMP poll ok
+2026-07-06 00:37:42 server01 INFO SNMP poll ok
+2026-07-06 00:37:48 server01 INFO temperature nominal 41C
+2026-07-06 00:38:17 server01 INFO Link status: UP
+2026-07-06 00:38:37 server01 INFO packet forwarded to 10.0.1.131
+2026-07-06 00:39:17 server01 INFO SLA probe ok latency 3ms
+2026-07-06 00:39:37 server01 INFO temperature nominal 41C
+2026-07-06 00:40:14 server01 INFO temperature nominal 41C
+2026-07-06 00:40:32 server01 INFO interface eth3 up
+2026-07-06 00:41:03 server01 INFO buffer utilization 38%
+2026-07-06 00:41:33 server01 INFO heartbeat ok
+2026-07-06 00:42:04 server01 INFO temperature nominal 41C
+2026-07-06 00:42:10 server01 INFO config sync completed
+2026-07-06 00:42:45 server01 ERROR CRC error on GigE0/1 count=5
+2026-07-06 00:43:04 server01 INFO config sync completed
+2026-07-06 00:43:33 server01 INFO interface eth2 up
+2026-07-06 00:43:45 server01 INFO interface eth2 up
+2026-07-06 00:43:58 server01 INFO linkdown_timer reset
+2026-07-06 00:44:27 server01 INFO Link status: UP
+2026-07-06 00:44:33 server01 INFO BGP session established with peer 10.0.4.144
+2026-07-06 00:45:06 server01 INFO CRCcheck OK
+2026-07-06 00:45:41 server01 INFO heartbeat ok
+2026-07-06 00:46:21 server01 INFO packet forwarded to 10.0.3.227
+2026-07-06 00:46:34 server01 ERROR CRC Error on eth3 count=31
+2026-07-06 00:46:35 server01 INFO SNMP poll ok
+2026-07-06 00:47:04 server01 INFO SLA probe ok latency 6ms
+2026-07-06 00:47:08 server01 INFO linkdown_timer reset
+2026-07-06 00:47:13 server01 INFO BGP session established with peer 10.0.4.218
+2026-07-06 00:47:28 server01 INFO linkdown_timer reset
+2026-07-06 00:48:02 server01 INFO config sync completed
+2026-07-06 00:48:16 server01 INFO config sync completed
+2026-07-06 00:48:24 server01 INFO SLA probe ok latency 26ms
+2026-07-06 00:48:46 server01 INFO linkdown_timer reset
+2026-07-06 00:49:15 server01 INFO buffer utilization 28%
+2026-07-06 00:49:39 server01 INFO packet forwarded to 10.0.1.112
+2026-07-06 00:49:53 server01 INFO SNMP poll ok
+2026-07-06 00:49:54 server01 INFO heartbeat ok
+2026-07-06 00:50:02 server01 INFO temperature nominal 41C
+2026-07-06 00:50:10 server01 ERROR CRC ERROR on eth0 count=26
+2026-07-06 00:50:36 server01 INFO temperature nominal 41C
+2026-07-06 00:50:37 server01 INFO SLA probe ok latency 21ms
+2026-07-06 00:51:06 server01 INFO SNMP poll ok
+2026-07-06 00:51:19 server01 INFO temperature nominal 41C
+2026-07-06 00:51:53 server01 INFO SNMP poll ok
+2026-07-06 00:52:05 server01 INFO SNMP poll ok
+2026-07-06 00:52:08 server01 INFO heartbeat ok
+2026-07-06 00:52:30 server01 INFO packet forwarded to 10.0.3.8
+2026-07-06 00:53:06 server01 INFO SLA probe ok latency 1ms
+2026-07-06 00:53:19 server01 INFO CRCcheck OK
+2026-07-06 00:53:34 server01 INFO SLA probe ok latency 37ms
+2026-07-06 00:53:56 server01 ERROR crc error on eth0 count=42
+2026-07-06 00:54:27 server01 INFO packet forwarded to 10.0.2.75
+2026-07-06 00:55:03 server01 INFO SLA probe ok latency 12ms
+2026-07-06 00:55:05 server01 INFO packet forwarded to 10.0.0.23
+2026-07-06 00:55:38 server01 INFO packet forwarded to 10.0.4.104
+2026-07-06 00:55:50 server01 INFO Link status: UP
+2026-07-06 00:56:29 server01 INFO SLA probe ok latency 17ms
+2026-07-06 00:57:07 server01 INFO SLA probe ok latency 35ms
+2026-07-06 00:57:46 server01 INFO CRC error recovered
+2026-07-06 00:57:47 server01 INFO Link status: UP
+2026-07-06 00:58:13 server01 INFO Link status: UP
+2026-07-06 00:58:22 server01 INFO Link status: UP
+2026-07-06 00:58:42 server01 INFO linkdown_timer reset
+2026-07-06 00:59:00 server01 INFO SNMP poll ok
+2026-07-06 00:59:33 server01 INFO power supply 1 nominal
+2026-07-06 00:59:50 server01 INFO temperature nominal 41C
+2026-07-06 00:59:58 server01 INFO Link status: UP
+2026-07-06 01:00:27 server01 INFO packet forwarded to 10.0.3.189
+2026-07-06 01:00:31 server01 ERROR CRC ERROR on eth0 count=3
+2026-07-06 01:01:06 server01 INFO linkdown_timer reset
+2026-07-06 01:01:12 server01 INFO SNMP poll ok
+2026-07-06 01:01:32 server01 INFO linkdown_timer reset
+2026-07-06 01:02:03 server01 INFO CRCcheck OK
+2026-07-06 01:02:34 server01 INFO SLA probe ok latency 35ms
+2026-07-06 01:03:05 server01 INFO interface eth1 up
+2026-07-06 01:03:15 server01 INFO temperature nominal 41C
+2026-07-06 01:03:27 server01 INFO heartbeat ok
+2026-07-06 01:03:36 server01 INFO SLA probe ok latency 18ms
+2026-07-06 01:04:10 server01 INFO packet forwarded to 10.0.2.163
+2026-07-06 01:04:37 server01 INFO BGP session established with peer 10.0.3.52
+2026-07-06 01:04:44 server01 INFO packet forwarded to 10.0.2.27
+2026-07-06 01:04:56 server01 INFO linkdown_timer reset
+2026-07-06 01:05:10 server01 INFO power supply 1 nominal
+2026-07-06 01:05:13 server01 INFO config sync completed
+2026-07-06 01:05:48 server01 ERROR Link Down on eth1
+2026-07-06 01:05:58 server01 INFO heartbeat ok
+2026-07-06 01:06:00 server01 INFO interface eth3 up
+2026-07-06 01:06:30 server01 INFO interface eth0 up
+2026-07-06 01:06:56 server01 INFO interface eth0 up
+2026-07-06 01:07:07 server01 INFO linkdown_timer reset
+2026-07-06 01:07:22 server01 INFO buffer utilization 50%
+2026-07-06 01:07:40 server01 INFO temperature nominal 41C
+2026-07-06 01:07:41 server01 INFO buffer utilization 59%
+2026-07-06 01:07:54 server01 INFO BGP session established with peer 10.0.4.236
+2026-07-06 01:08:19 server01 INFO SLA probe ok latency 25ms
+2026-07-06 01:08:58 server01 INFO interface eth1 up
+2026-07-06 01:09:00 server01 INFO SLA probe ok latency 29ms
+2026-07-06 01:09:34 server01 INFO config sync completed
+2026-07-06 01:10:01 server01 INFO linkdown_timer reset
+2026-07-06 01:10:07 server01 ERROR CRC Error on TenGigE0/0 count=35
+2026-07-06 01:10:24 server01 INFO config sync completed
+2026-07-06 01:11:00 server01 INFO power supply 1 nominal
+2026-07-06 01:11:29 server01 INFO packet forwarded to 10.0.3.237
+2026-07-06 01:11:59 server01 INFO SNMP poll ok
+2026-07-06 01:12:34 server01 INFO config sync completed
+2026-07-06 01:12:47 server01 INFO temperature nominal 41C
+2026-07-06 01:12:57 server01 INFO interface up, no CRC error found
+2026-07-06 01:13:01 server01 INFO CRCcheck OK
+2026-07-06 01:13:13 server01 INFO Link status: UP
+2026-07-06 01:13:29 server01 INFO interface eth0 up
+2026-07-06 01:13:39 server01 ERROR CRC Error on eth2 count=46
+2026-07-06 01:14:16 server01 INFO config sync completed
+2026-07-06 01:14:47 server01 INFO config sync completed
+2026-07-06 01:15:20 server01 INFO BGP session established with peer 10.0.1.33
+2026-07-06 01:15:58 server01 INFO temperature nominal 41C
+2026-07-06 01:16:26 server01 INFO SNMP poll ok
+2026-07-06 01:16:57 server01 INFO power supply 1 nominal
+2026-07-06 01:17:31 server01 INFO CRCcheck OK
+2026-07-06 01:17:59 server01 INFO temperature nominal 41C
+2026-07-06 01:18:03 server01 INFO packet forwarded to 10.0.4.147
+2026-07-06 01:18:13 server01 INFO Link status: UP
+2026-07-06 01:18:22 server01 INFO config sync completed
+2026-07-06 01:18:55 server01 INFO SNMP poll ok
+2026-07-06 01:19:03 server01 INFO Link status: UP
+2026-07-06 01:19:05 server01 INFO SNMP poll ok
+2026-07-06 01:19:12 server01 INFO heartbeat ok
+2026-07-06 01:19:33 server01 INFO SLA probe ok latency 20ms
+2026-07-06 01:20:04 server01 ERROR CRC error on TenGigE0/0 count=20
+2026-07-06 01:20:15 server01 INFO config sync completed
+2026-07-06 01:20:30 server01 INFO SLA probe ok latency 32ms
+2026-07-06 01:20:38 server01 INFO interface eth3 up
+2026-07-06 01:21:07 server01 INFO SNMP poll ok
+2026-07-06 01:21:41 server01 INFO CRCcheck OK
+2026-07-06 01:22:20 server01 INFO Link status: UP
+2026-07-06 01:22:50 server01 INFO temperature nominal 41C
+2026-07-06 01:23:22 server01 INFO power supply 2 nominal
+2026-07-06 01:23:50 server01 INFO heartbeat ok
+2026-07-06 01:24:10 server01 INFO temperature nominal 41C
+2026-07-06 01:24:39 server01 INFO packet forwarded to 10.0.2.22
+2026-07-06 01:24:40 server01 INFO power supply 1 nominal
+2026-07-06 01:25:18 server01 INFO power supply 1 nominal
+2026-07-06 01:25:52 server01 INFO interface eth0 up
+2026-07-06 01:25:54 server01 ERROR CRC error on eth0 count=11
+2026-07-06 01:26:19 server01 INFO linkdown_timer reset
+2026-07-06 01:26:26 server01 INFO interface eth2 up
+2026-07-06 01:27:04 server01 INFO interface eth2 up
+2026-07-06 01:27:27 server01 INFO config sync completed
+2026-07-06 01:27:58 server01 INFO power supply 1 nominal
+2026-07-06 01:28:31 server01 INFO interface eth3 up
+2026-07-06 01:28:50 server01 INFO BGP session established with peer 10.0.1.150
+2026-07-06 01:29:28 server01 INFO linkdown_timer reset
+2026-07-06 01:29:40 server01 INFO packet forwarded to 10.0.3.38
+2026-07-06 01:30:18 server01 INFO temperature nominal 41C
+2026-07-06 01:30:41 server01 INFO linkdown_timer reset
+2026-07-06 01:30:49 server01 INFO power supply 2 nominal
+2026-07-06 01:31:13 server01 INFO Link status: UP
+2026-07-06 01:31:45 server01 INFO linkdown_timer reset
+2026-07-06 01:31:48 server01 ERROR CRC Error on eth3 count=24
+2026-07-06 01:32:26 server01 INFO packet forwarded to 10.0.4.25
+2026-07-06 01:33:01 server01 INFO power supply 1 nominal
+2026-07-06 01:33:16 server01 INFO linkdown_timer reset
+2026-07-06 01:33:23 server01 INFO SNMP poll ok
+2026-07-06 01:33:57 server01 INFO Link status: UP
+2026-07-06 01:34:13 server01 INFO SLA probe ok latency 11ms
+2026-07-06 01:34:16 server01 INFO config sync completed
+2026-07-06 01:34:40 server01 INFO SLA probe ok latency 39ms
+2026-07-06 01:35:10 server01 INFO CRCcheck OK
+2026-07-06 01:35:42 server01 INFO CRCcheck OK
+2026-07-06 01:36:11 server01 INFO config sync completed
+2026-07-06 01:36:15 server01 ERROR link down on GigE0/1
+2026-07-06 01:36:22 server01 INFO SNMP poll ok
+2026-07-06 01:36:34 server01 INFO power supply 1 nominal
+2026-07-06 01:36:46 server01 INFO buffer utilization 22%
+2026-07-06 01:36:51 server01 INFO CRCcheck OK
+2026-07-06 01:37:26 server01 INFO config sync completed
+2026-07-06 01:37:30 server01 INFO BGP session established with peer 10.0.1.86
+2026-07-06 01:38:02 server01 INFO packet forwarded to 10.0.2.94
+2026-07-06 01:38:09 server01 INFO heartbeat ok
+2026-07-06 01:38:22 server01 INFO temperature nominal 41C
+2026-07-06 01:38:23 server01 INFO CRCcheck OK
+2026-07-06 01:38:27 server01 INFO BGP session established with peer 10.0.2.98
+2026-07-06 01:38:48 server01 INFO linkdown_timer reset
+2026-07-06 01:39:26 server01 INFO packet forwarded to 10.0.1.112
+2026-07-06 01:39:31 server01 INFO interface eth1 up
+2026-07-06 01:40:07 server01 INFO CRCcheck OK
+2026-07-06 01:40:12 server01 INFO linkdown_timer reset
+2026-07-06 01:40:50 server01 ERROR Link Down on TenGigE0/0
+    -> reason: carrier lost, autoneg failed
+    -> downtime 78s before recovery
+2026-07-06 01:41:24 server01 INFO BGP session established with peer 10.0.4.244
+2026-07-06 01:41:53 server01 INFO packet forwarded to 10.0.3.41
+2026-07-06 01:42:26 server01 INFO power supply 2 nominal
+2026-07-06 01:42:53 server01 INFO heartbeat ok
+2026-07-06 01:43:08 server01 INFO Link status: UP
+2026-07-06 01:43:37 server01 INFO linkdown_timer reset
+2026-07-06 01:44:05 server01 INFO power supply 1 nominal
+2026-07-06 01:44:34 server01 INFO Link status: UP
+2026-07-06 01:44:52 server01 INFO SNMP poll ok
+2026-07-06 01:45:24 server01 INFO temperature nominal 41C
+2026-07-06 01:45:59 server01 INFO SLA probe ok latency 18ms
+2026-07-06 01:46:24 server01 INFO Link status: UP
+2026-07-06 01:47:03 server01 INFO SLA probe ok latency 7ms
+2026-07-06 01:47:07 server01 ERROR crc error on GigE0/2 count=47
+2026-07-06 01:47:08 server01 INFO config sync completed
+2026-07-06 01:47:32 server01 INFO config sync completed
+2026-07-06 01:47:54 server01 INFO linkdown_timer reset
+2026-07-06 01:47:57 server01 INFO SNMP poll ok
+2026-07-06 01:48:10 server01 INFO power supply 2 nominal
+2026-07-06 01:48:36 server01 INFO power supply 1 nominal
+2026-07-06 01:49:01 server01 INFO BGP session established with peer 10.0.3.22
+2026-07-06 01:49:04 server01 INFO SLA probe ok latency 25ms
+2026-07-06 01:49:20 server01 INFO SLA probe ok latency 26ms
+2026-07-06 01:49:53 server01 INFO heartbeat ok
+2026-07-06 01:50:10 server01 INFO SLA probe ok latency 37ms
+2026-07-06 01:50:14 server01 INFO packet forwarded to 10.0.4.145
+2026-07-06 01:50:37 server01 INFO BGP session established with peer 10.0.0.194
+2026-07-06 01:50:53 server01 INFO Link status: UP
+2026-07-06 01:51:05 server01 ERROR LINK Down on GigE0/1
+2026-07-06 01:51:21 server01 INFO temperature nominal 41C
+2026-07-06 01:51:58 server01 INFO buffer utilization 42%
+2026-07-06 01:52:16 server01 INFO interface eth2 up
+2026-07-06 01:52:36 server01 INFO temperature nominal 41C
+2026-07-06 01:52:55 server01 INFO packet forwarded to 10.0.1.211
+2026-07-06 01:53:18 server01 INFO SNMP poll ok
+2026-07-06 01:53:30 server01 INFO heartbeat ok
+2026-07-06 01:53:59 server01 INFO SNMP poll ok
+2026-07-06 01:54:06 server01 ERROR CRC error on eth3 count=16
+2026-07-06 01:54:14 server01 INFO config sync completed
+2026-07-06 01:54:35 server01 INFO packet forwarded to 10.0.4.30
+2026-07-06 01:54:47 server01 INFO power supply 1 nominal
+2026-07-06 01:55:06 server01 INFO power supply 2 nominal
+2026-07-06 01:55:10 server01 INFO power supply 1 nominal
+2026-07-06 01:55:35 server01 INFO power supply 2 nominal
+2026-07-06 01:55:55 server01 INFO temperature nominal 41C
+2026-07-06 01:56:25 server01 INFO CRCcheck OK
+2026-07-06 01:56:31 server01 INFO CRCcheck OK
+2026-07-06 01:56:56 server01 INFO temperature nominal 41C
+2026-07-06 01:56:57 server01 INFO CRCcheck OK
+2026-07-06 01:57:08 server01 ERROR Link down on eth0
+2026-07-06 01:57:25 server01 INFO Link status: UP
+2026-07-06 01:58:01 server01 INFO temperature nominal 41C
+2026-07-06 01:58:07 server01 INFO BGP session established with peer 10.0.0.193
+2026-07-06 01:58:19 server01 INFO heartbeat ok
+2026-07-06 01:58:46 server01 INFO interface up, no CRC error found
+2026-07-06 01:59:19 server01 INFO heartbeat ok
+2026-07-06 01:59:20 server01 INFO heartbeat ok
+2026-07-06 01:59:26 server01 INFO Link status: UP
+2026-07-06 01:59:38 server01 INFO config sync completed
+2026-07-06 02:00:01 server01 ERROR CRC Error on eth0 count=16
+2026-07-06 02:00:39 server01 INFO buffer utilization 66%
+2026-07-06 02:00:52 server01 INFO CRCcheck OK
+2026-07-06 02:01:07 server01 INFO BGP session established with peer 10.0.1.7
+2026-07-06 02:01:45 server01 INFO BGP session established with peer 10.0.3.94
+2026-07-06 02:02:08 server01 INFO heartbeat ok
+2026-07-06 02:02:13 server01 INFO temperature nominal 41C
+2026-07-06 02:02:29 server01 INFO linkdown_timer reset
+2026-07-06 02:02:40 server01 INFO BGP session established with peer 10.0.2.177
+2026-07-06 02:03:20 server01 INFO SLA probe ok latency 25ms
+2026-07-06 02:03:50 server01 INFO SLA probe ok latency 37ms
+2026-07-06 02:03:59 server01 INFO BGP session established with peer 10.0.1.86
+2026-07-06 02:04:29 server01 INFO power supply 1 nominal
+2026-07-06 02:05:08 server01 INFO interface eth0 up
+2026-07-06 02:05:15 server01 INFO CRCcheck OK
+2026-07-06 02:05:36 server01 INFO heartbeat ok
+2026-07-06 02:05:41 server01 INFO Link status: UP
+2026-07-06 02:05:59 server01 ERROR Link down on eth0
+2026-07-06 02:06:01 server01 INFO SNMP poll ok
+2026-07-06 02:06:41 server01 INFO config sync completed
+2026-07-06 02:07:17 server01 INFO BGP session established with peer 10.0.1.139
+2026-07-06 02:07:49 server01 INFO CRCcheck OK
+2026-07-06 02:08:28 server01 INFO packet forwarded to 10.0.4.246
+2026-07-06 02:09:07 server01 INFO CRCcheck OK
+2026-07-06 02:09:14 server01 INFO packet forwarded to 10.0.0.80
+2026-07-06 02:09:40 server01 INFO interface eth3 up
+2026-07-06 02:09:46 server01 INFO config sync completed
+2026-07-06 02:09:53 server01 INFO buffer utilization 41%
+2026-07-06 02:10:28 server01 INFO CRCcheck OK
+2026-07-06 02:11:05 server01 INFO CRCcheck OK
+2026-07-06 02:11:17 server01 INFO CRC error recovered
+2026-07-06 02:11:34 server01 INFO Link status: UP
+2026-07-06 02:11:37 server01 INFO SLA probe ok latency 28ms
+2026-07-06 02:11:42 server01 ERROR crc error on eth2 count=35
+2026-07-06 02:12:17 server01 INFO BGP session established with peer 10.0.1.252
+2026-07-06 02:12:54 server01 INFO power supply 1 nominal
+2026-07-06 02:13:13 server01 INFO CRC error recovered
+2026-07-06 02:13:30 server01 INFO heartbeat ok
+2026-07-06 02:13:53 server01 INFO packet forwarded to 10.0.3.24
+2026-07-06 02:14:19 server01 INFO heartbeat ok
+2026-07-06 02:14:39 server01 INFO SLA probe ok latency 9ms
+2026-07-06 02:14:49 server01 INFO temperature nominal 41C
+2026-07-06 02:15:17 server01 INFO heartbeat ok
+2026-07-06 02:15:50 server01 INFO CRCcheck OK
+2026-07-06 02:16:28 server01 INFO Link status: UP
+2026-07-06 02:16:57 server01 INFO CRCcheck OK
+2026-07-06 02:17:26 server01 INFO linkdown_timer reset
+2026-07-06 02:17:30 server01 ERROR link down on GigE0/1
+2026-07-06 02:17:44 server01 INFO CRCcheck OK
+2026-07-06 02:17:51 server01 INFO SNMP poll ok
+2026-07-06 02:17:56 server01 INFO power supply 1 nominal
+2026-07-06 02:18:35 server01 INFO packet forwarded to 10.0.4.237
+2026-07-06 02:18:36 server01 INFO temperature nominal 41C
+2026-07-06 02:18:47 server01 INFO BGP session established with peer 10.0.2.119
+2026-07-06 02:19:10 server01 INFO SNMP poll ok
+2026-07-06 02:19:16 server01 INFO SLA probe ok latency 33ms
+2026-07-06 02:19:38 server01 INFO temperature nominal 41C
+2026-07-06 02:19:49 server01 INFO temperature nominal 41C
+2026-07-06 02:20:29 server01 INFO buffer utilization 51%
+2026-07-06 02:20:33 server01 INFO buffer utilization 44%
+2026-07-06 02:20:55 server01 ERROR crc error on eth0 count=15
+2026-07-06 02:21:03 server01 INFO CRCcheck OK
+2026-07-06 02:21:06 server01 INFO power supply 1 nominal
+2026-07-06 02:21:11 server01 INFO SNMP poll ok
+2026-07-06 02:21:31 server01 INFO linkdown_timer reset
+2026-07-06 02:21:39 server01 INFO heartbeat ok
+2026-07-06 02:21:43 server01 INFO interface eth2 up
+2026-07-06 02:21:58 server01 INFO interface eth2 up
+2026-07-06 02:22:34 server01 INFO SNMP poll ok
+2026-07-06 02:23:01 server01 INFO linkdown_timer reset
+2026-07-06 02:23:36 server01 INFO SLA probe ok latency 37ms
+2026-07-06 02:24:05 server01 INFO config sync completed
+2026-07-06 02:24:21 server01 INFO Link status: UP
+2026-07-06 02:24:34 server01 INFO power supply 1 nominal
+2026-07-06 02:25:05 server01 INFO SNMP poll ok
+2026-07-06 02:25:25 server01 INFO config sync completed
+2026-07-06 02:25:46 server01 INFO temperature nominal 41C
+2026-07-06 02:25:50 server01 INFO packet forwarded to 10.0.3.187
+2026-07-06 02:26:10 server01 ERROR Link Down on eth0
+2026-07-06 02:26:20 server01 INFO SLA probe ok latency 1ms
+2026-07-06 02:26:58 server01 INFO config sync completed
+2026-07-06 02:27:24 server01 INFO heartbeat ok
+2026-07-06 02:27:56 server01 INFO SLA probe ok latency 22ms
+2026-07-06 02:28:28 server01 INFO Link status: UP
+2026-07-06 02:29:04 server01 INFO config sync completed
+2026-07-06 02:29:22 server01 INFO config sync completed
+2026-07-06 02:29:23 server01 INFO Link status: UP
+2026-07-06 02:29:26 server01 INFO temperature nominal 41C
+2026-07-06 02:30:00 server01 INFO CRCcheck OK
+2026-07-06 02:30:23 server01 INFO temperature nominal 41C
+2026-07-06 02:30:30 server01 INFO Link status: UP
+2026-07-06 02:30:49 server01 ERROR CRC Error on TenGigE0/0 count=26
+2026-07-06 02:31:25 server01 INFO buffer utilization 64%
+2026-07-06 02:31:39 server01 INFO buffer utilization 71%
+2026-07-06 02:31:50 server01 INFO BGP session established with peer 10.0.2.90
+2026-07-06 02:31:57 server01 INFO interface eth3 up
+2026-07-06 02:32:02 server01 INFO temperature nominal 41C
+2026-07-06 02:32:25 server01 INFO BGP session established with peer 10.0.4.139
+2026-07-06 02:32:46 server01 INFO config sync completed
+2026-07-06 02:32:50 server01 INFO config sync completed
+2026-07-06 02:33:25 server01 INFO linkdown_timer reset
+2026-07-06 02:34:04 server01 INFO Link status: UP
+2026-07-06 02:34:25 server01 INFO power supply 2 nominal
+2026-07-06 02:34:30 server01 ERROR link down on TenGigE0/0
+    -> reason: carrier lost, autoneg failed
+2026-07-06 02:34:38 server01 INFO packet forwarded to 10.0.4.211
+2026-07-06 02:34:49 server01 INFO CRC error recovered
+2026-07-06 02:35:15 server01 INFO packet forwarded to 10.0.1.45
+2026-07-06 02:35:49 server01 INFO buffer utilization 50%
+2026-07-06 02:36:05 server01 INFO SLA probe ok latency 30ms
+2026-07-06 02:36:31 server01 INFO temperature nominal 41C
+2026-07-06 02:36:38 server01 INFO Link status: UP
+2026-07-06 02:36:48 server01 INFO temperature nominal 41C
+2026-07-06 02:37:01 server01 INFO Link status: UP
+2026-07-06 02:37:26 server01 INFO buffer utilization 64%
+2026-07-06 02:37:49 server01 INFO SLA probe ok latency 15ms
+2026-07-06 02:38:12 server01 INFO SLA probe ok latency 15ms
+2026-07-06 02:38:24 server01 INFO linkdown_timer reset
+2026-07-06 02:38:46 server01 INFO power supply 1 nominal
+2026-07-06 02:39:01 server01 INFO buffer utilization 24%
+2026-07-06 02:39:03 server01 ERROR Link Down on eth1
+2026-07-06 02:39:05 server01 INFO linkdown_timer reset
+2026-07-06 02:39:28 server01 INFO temperature nominal 41C
+2026-07-06 02:39:50 server01 INFO SNMP poll ok
+2026-07-06 02:39:54 server01 INFO linkdown_timer reset
+2026-07-06 02:40:14 server01 INFO SLA probe ok latency 4ms
+2026-07-06 02:40:48 server01 INFO interface up, no CRC error found
+2026-07-06 02:40:51 server01 INFO packet forwarded to 10.0.2.135
+2026-07-06 02:41:19 server01 INFO Link status: UP
+2026-07-06 02:41:42 server01 INFO power supply 2 nominal
+2026-07-06 02:42:22 server01 INFO config sync completed
+2026-07-06 02:42:33 server01 INFO buffer utilization 17%
+2026-07-06 02:42:57 server01 INFO CRCcheck OK
+2026-07-06 02:43:27 server01 INFO interface up, no CRC error found
+2026-07-06 02:43:44 server01 INFO interface eth3 up
+2026-07-06 02:44:19 server01 ERROR CRC ERROR on eth2 count=41
+2026-07-06 02:44:58 server01 INFO heartbeat ok
+2026-07-06 02:45:28 server01 INFO SNMP poll ok
+2026-07-06 02:45:45 server01 INFO CRCcheck OK
+2026-07-06 02:46:21 server01 INFO BGP session established with peer 10.0.2.156
+2026-07-06 02:46:58 server01 INFO CRCcheck OK
+2026-07-06 02:47:19 server01 INFO power supply 1 nominal
+2026-07-06 02:47:45 server01 INFO SLA probe ok latency 5ms
+2026-07-06 02:47:52 server01 INFO config sync completed
+2026-07-06 02:48:17 server01 INFO CRC error recovered
+2026-07-06 02:48:54 server01 INFO buffer utilization 27%
+2026-07-06 02:49:13 server01 INFO interface eth0 up
+2026-07-06 02:49:28 server01 INFO SLA probe ok latency 1ms
+2026-07-06 02:49:37 server01 INFO BGP session established with peer 10.0.0.123
+2026-07-06 02:49:39 server01 INFO power supply 2 nominal
+2026-07-06 02:49:42 server01 INFO Link status: UP
+2026-07-06 02:49:50 server01 INFO heartbeat ok
+2026-07-06 02:50:29 server01 INFO packet forwarded to 10.0.2.7
+2026-07-06 02:50:35 server01 ERROR CRC error on GigE0/2 count=5
+2026-07-06 02:50:55 server01 INFO CRCcheck OK
+2026-07-06 02:51:30 server01 INFO interface eth2 up
+2026-07-06 02:51:58 server01 INFO Link status: UP
+2026-07-06 02:52:14 server01 INFO temperature nominal 41C
+2026-07-06 02:52:31 server01 INFO CRC error recovered
+2026-07-06 02:53:05 server01 INFO interface eth3 up
+2026-07-06 02:53:23 server01 INFO config sync completed
+2026-07-06 02:53:37 server01 INFO config sync completed
+2026-07-06 02:53:44 server01 INFO interface eth3 up
+2026-07-06 02:53:58 server01 INFO config sync completed
+2026-07-06 02:54:24 server01 ERROR crc error detected on GigE0/1
+    -> frame check sequence mismatch, 205 bad frames
+    -> last good frame at seq 5064
+2026-07-06 02:54:59 server01 INFO packet forwarded to 10.0.2.171
+2026-07-06 02:55:36 server01 INFO packet forwarded to 10.0.0.222
+2026-07-06 02:55:45 server01 INFO SLA probe ok latency 1ms
+2026-07-06 02:55:54 server01 INFO heartbeat ok
+2026-07-06 02:56:18 server01 INFO packet forwarded to 10.0.0.36
+2026-07-06 02:56:34 server01 INFO interface eth2 up
+2026-07-06 02:56:38 server01 INFO power supply 1 nominal
+2026-07-06 02:56:47 server01 INFO linkdown_timer reset
+2026-07-06 02:57:16 server01 INFO buffer utilization 61%
+2026-07-06 02:57:52 server01 INFO interface eth1 up
+2026-07-06 02:58:16 server01 INFO interface up, no CRC error found
+2026-07-06 02:58:41 server01 INFO CRCcheck OK
+2026-07-06 02:58:53 server01 ERROR crc error on TenGigE0/0 count=1
+2026-07-06 02:59:02 server01 INFO Link status: UP
+2026-07-06 02:59:41 server01 INFO config sync completed
+2026-07-06 03:00:04 server01 INFO BGP session established with peer 10.0.0.109
+2026-07-06 03:00:17 server01 INFO config sync completed
+2026-07-06 03:00:21 server01 INFO buffer utilization 25%
+2026-07-06 03:00:39 server01 INFO buffer utilization 70%
+2026-07-06 03:00:43 server01 INFO packet forwarded to 10.0.1.21
+2026-07-06 03:00:45 server01 INFO packet forwarded to 10.0.3.227
+2026-07-06 03:01:00 server01 INFO SNMP poll ok
+2026-07-06 03:01:38 server01 INFO CRCcheck OK
+2026-07-06 03:02:01 server01 INFO interface up, no CRC error found
+2026-07-06 03:02:28 server01 INFO interface eth3 up
+2026-07-06 03:02:41 server01 INFO Link status: UP
+2026-07-06 03:03:03 server01 INFO SLA probe ok latency 11ms
+2026-07-06 03:03:23 server01 INFO linkdown_timer reset
+2026-07-06 03:03:31 server01 ERROR LINK DOWN on eth2
+2026-07-06 03:04:04 server01 INFO temperature nominal 41C
+2026-07-06 03:04:10 server01 INFO Link status: UP
+2026-07-06 03:04:18 server01 INFO Link status: UP
+2026-07-06 03:04:26 server01 INFO interface eth2 up
+2026-07-06 03:04:49 server01 INFO SLA probe ok latency 26ms
+2026-07-06 03:04:59 server01 INFO SNMP poll ok
+2026-07-06 03:05:03 server01 INFO config sync completed
+2026-07-06 03:05:27 server01 INFO interface eth0 up
+2026-07-06 03:05:29 server01 INFO config sync completed
+2026-07-06 03:06:05 server01 INFO Link status: UP
+2026-07-06 03:06:33 server01 INFO buffer utilization 38%
+2026-07-06 03:07:03 server01 INFO CRCcheck OK
+2026-07-06 03:07:41 server01 INFO buffer utilization 26%
+2026-07-06 03:07:51 server01 INFO SNMP poll ok
+2026-07-06 03:08:27 server01 INFO temperature nominal 41C
+2026-07-06 03:08:31 server01 INFO buffer utilization 39%
+2026-07-06 03:08:52 server01 INFO config sync completed
+2026-07-06 03:09:16 server01 ERROR Crc Error detected on eth1
+    -> frame check sequence mismatch, 309 bad frames
+    -> last good frame at seq 2588
+2026-07-06 03:09:27 server01 INFO CRCcheck OK
+2026-07-06 03:09:44 server01 INFO temperature nominal 41C
+2026-07-06 03:09:55 server01 INFO SNMP poll ok
+2026-07-06 03:10:33 server01 INFO power supply 2 nominal
+2026-07-06 03:10:58 server01 INFO === log end (server01) ===

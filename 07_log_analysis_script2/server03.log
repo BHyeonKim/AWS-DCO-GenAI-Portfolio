@@ -1,0 +1,542 @@
+[06/Jul/2026:01:36:20] server03 INFO === log start (server03) ===
+[06/Jul/2026:01:36:53] server03 INFO packet forwarded to 10.0.3.170
+[06/Jul/2026:01:37:24] server03 INFO interface eth2 up
+[06/Jul/2026:01:37:44] server03 INFO heartbeat ok
+[06/Jul/2026:01:38:20] server03 INFO heartbeat ok
+[06/Jul/2026:01:38:53] server03 INFO heartbeat ok
+[06/Jul/2026:01:38:58] server03 INFO SLA probe ok latency 32ms
+[06/Jul/2026:01:39:02] server03 INFO heartbeat ok
+[06/Jul/2026:01:39:41] server03 INFO Link status: UP
+[06/Jul/2026:01:40:10] server03 INFO heartbeat ok
+[06/Jul/2026:01:40:23] server03 INFO interface eth3 up
+[06/Jul/2026:01:40:55] server03 INFO config sync completed
+[06/Jul/2026:01:40:56] server03 INFO config sync completed
+[06/Jul/2026:01:41:35] server03 INFO interface up, no CRC error found
+[06/Jul/2026:01:42:05] server03 ERROR CRC ERROR on TenGigE0/0 count=17
+[06/Jul/2026:01:42:10] server03 INFO interface up, no CRC error found
+[06/Jul/2026:01:42:44] server03 INFO buffer utilization 11%
+[06/Jul/2026:01:43:08] server03 INFO packet forwarded to 10.0.0.221
+[06/Jul/2026:01:43:10] server03 INFO buffer utilization 55%
+[06/Jul/2026:01:43:30] server03 INFO buffer utilization 33%
+[06/Jul/2026:01:44:05] server03 INFO heartbeat ok
+[06/Jul/2026:01:44:30] server03 INFO heartbeat ok
+[06/Jul/2026:01:45:07] server03 INFO BGP session established with peer 10.0.0.147
+[06/Jul/2026:01:45:43] server03 INFO CRCcheck OK
+[06/Jul/2026:01:45:58] server03 INFO heartbeat ok
+[06/Jul/2026:01:46:09] server03 INFO power supply 1 nominal
+[06/Jul/2026:01:46:34] server03 INFO config sync completed
+[06/Jul/2026:01:47:10] server03 INFO interface eth0 up
+[06/Jul/2026:01:47:40] server03 INFO temperature nominal 41C
+[06/Jul/2026:01:48:13] server03 INFO temperature nominal 41C
+[06/Jul/2026:01:48:37] server03 INFO packet forwarded to 10.0.4.27
+[06/Jul/2026:01:48:59] server03 ERROR CRC ERROR on eth0 count=13
+[06/Jul/2026:01:49:20] server03 INFO linkdown_timer reset
+[06/Jul/2026:01:49:22] server03 INFO SLA probe ok latency 24ms
+[06/Jul/2026:01:49:38] server03 INFO SNMP poll ok
+[06/Jul/2026:01:49:46] server03 INFO interface up, no CRC error found
+[06/Jul/2026:01:50:16] server03 INFO config sync completed
+[06/Jul/2026:01:50:46] server03 INFO power supply 1 nominal
+[06/Jul/2026:01:51:01] server03 INFO temperature nominal 41C
+[06/Jul/2026:01:51:26] server03 INFO CRCcheck OK
+[06/Jul/2026:01:51:42] server03 INFO interface eth1 up
+[06/Jul/2026:01:52:08] server03 INFO SLA probe ok latency 18ms
+[06/Jul/2026:01:52:48] server03 INFO temperature nominal 41C
+[06/Jul/2026:01:52:59] server03 ERROR CRC error on TenGigE0/0 count=39
+[06/Jul/2026:01:53:02] server03 INFO Link status: UP
+[06/Jul/2026:01:53:41] server03 INFO buffer utilization 76%
+[06/Jul/2026:01:54:11] server03 INFO buffer utilization 68%
+[06/Jul/2026:01:54:13] server03 INFO linkdown_timer reset
+[06/Jul/2026:01:54:18] server03 INFO heartbeat ok
+[06/Jul/2026:01:54:20] server03 INFO CRCcheck OK
+[06/Jul/2026:01:54:42] server03 INFO temperature nominal 41C
+[06/Jul/2026:01:54:44] server03 INFO BGP session established with peer 10.0.2.142
+[06/Jul/2026:01:55:20] server03 INFO interface eth2 up
+[06/Jul/2026:01:55:47] server03 INFO interface eth1 up
+[06/Jul/2026:01:56:02] server03 INFO SLA probe ok latency 4ms
+[06/Jul/2026:01:56:31] server03 INFO BGP session established with peer 10.0.2.153
+[06/Jul/2026:01:57:00] server03 INFO BGP session established with peer 10.0.4.114
+[06/Jul/2026:01:57:36] server03 ERROR Crc Error detected on eth1
+    -> frame check sequence mismatch, 856 bad frames
+    -> last good frame at seq 9440
+[06/Jul/2026:01:58:10] server03 INFO SLA probe ok latency 32ms
+[06/Jul/2026:01:58:34] server03 INFO power supply 1 nominal
+[06/Jul/2026:01:58:36] server03 INFO config sync completed
+[06/Jul/2026:01:58:37] server03 INFO power supply 1 nominal
+[06/Jul/2026:01:59:04] server03 INFO linkdown_timer reset
+[06/Jul/2026:01:59:17] server03 INFO CRC error recovered
+[06/Jul/2026:01:59:50] server03 INFO SNMP poll ok
+[06/Jul/2026:01:59:53] server03 INFO SNMP poll ok
+[06/Jul/2026:02:00:06] server03 INFO SNMP poll ok
+[06/Jul/2026:02:00:37] server03 INFO Link status: UP
+[06/Jul/2026:02:01:01] server03 INFO SLA probe ok latency 10ms
+[06/Jul/2026:02:01:24] server03 ERROR CRC ERROR detected on GigE0/1
+    -> frame check sequence mismatch, 35 bad frames
+[06/Jul/2026:02:01:56] server03 INFO CRCcheck OK
+[06/Jul/2026:02:02:22] server03 INFO SLA probe ok latency 18ms
+[06/Jul/2026:02:02:33] server03 INFO Link status: UP
+[06/Jul/2026:02:02:40] server03 INFO heartbeat ok
+[06/Jul/2026:02:02:56] server03 INFO interface eth3 up
+[06/Jul/2026:02:03:01] server03 INFO Link status: UP
+[06/Jul/2026:02:03:25] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:03:46] server03 INFO SNMP poll ok
+[06/Jul/2026:02:03:57] server03 INFO interface eth2 up
+[06/Jul/2026:02:04:24] server03 INFO BGP session established with peer 10.0.3.212
+[06/Jul/2026:02:04:53] server03 INFO heartbeat ok
+[06/Jul/2026:02:04:57] server03 INFO SLA probe ok latency 38ms
+[06/Jul/2026:02:05:35] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:05:53] server03 ERROR Crc Error detected on GigE0/1
+    -> frame check sequence mismatch, 555 bad frames
+    -> last good frame at seq 9978
+[06/Jul/2026:02:06:14] server03 INFO buffer utilization 38%
+[06/Jul/2026:02:06:50] server03 INFO packet forwarded to 10.0.4.200
+[06/Jul/2026:02:07:10] server03 INFO heartbeat ok
+[06/Jul/2026:02:07:48] server03 INFO SNMP poll ok
+[06/Jul/2026:02:08:12] server03 INFO heartbeat ok
+[06/Jul/2026:02:08:15] server03 INFO SNMP poll ok
+[06/Jul/2026:02:08:16] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:08:54] server03 INFO SNMP poll ok
+[06/Jul/2026:02:08:55] server03 ERROR Link down on eth0
+[06/Jul/2026:02:09:15] server03 INFO packet forwarded to 10.0.1.238
+[06/Jul/2026:02:09:38] server03 INFO CRCcheck OK
+[06/Jul/2026:02:09:40] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:10:12] server03 INFO SLA probe ok latency 4ms
+[06/Jul/2026:02:10:46] server03 INFO Link status: UP
+[06/Jul/2026:02:11:03] server03 INFO BGP session established with peer 10.0.3.40
+[06/Jul/2026:02:11:31] server03 INFO SLA probe ok latency 15ms
+[06/Jul/2026:02:11:46] server03 INFO Link status: UP
+[06/Jul/2026:02:11:50] server03 INFO BGP session established with peer 10.0.1.16
+[06/Jul/2026:02:12:05] server03 ERROR CRC Error on GigE0/1 count=17
+[06/Jul/2026:02:12:23] server03 INFO SLA probe ok latency 8ms
+[06/Jul/2026:02:12:53] server03 INFO SLA probe ok latency 28ms
+[06/Jul/2026:02:13:23] server03 INFO CRCcheck OK
+[06/Jul/2026:02:13:54] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:14:20] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:14:58] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:15:32] server03 INFO heartbeat ok
+[06/Jul/2026:02:16:09] server03 INFO SLA probe ok latency 19ms
+[06/Jul/2026:02:16:11] server03 INFO CRCcheck OK
+[06/Jul/2026:02:16:27] server03 INFO interface eth3 up
+[06/Jul/2026:02:16:38] server03 INFO buffer utilization 49%
+[06/Jul/2026:02:16:49] server03 INFO SLA probe ok latency 30ms
+[06/Jul/2026:02:16:53] server03 ERROR CRC Error on eth3 count=9
+[06/Jul/2026:02:17:19] server03 INFO BGP session established with peer 10.0.3.219
+[06/Jul/2026:02:17:31] server03 INFO interface up, no CRC error found
+[06/Jul/2026:02:17:59] server03 INFO config sync completed
+[06/Jul/2026:02:18:11] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:18:26] server03 INFO interface eth1 up
+[06/Jul/2026:02:19:04] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:19:38] server03 INFO SNMP poll ok
+[06/Jul/2026:02:19:49] server03 INFO Link status: UP
+[06/Jul/2026:02:20:23] server03 ERROR Link Down on eth1
+[06/Jul/2026:02:20:53] server03 INFO buffer utilization 17%
+[06/Jul/2026:02:21:01] server03 INFO CRC error recovered
+[06/Jul/2026:02:21:19] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:21:59] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:22:30] server03 INFO interface up, no CRC error found
+[06/Jul/2026:02:22:40] server03 INFO buffer utilization 54%
+[06/Jul/2026:02:23:15] server03 INFO power supply 2 nominal
+[06/Jul/2026:02:23:45] server03 INFO config sync completed
+[06/Jul/2026:02:23:49] server03 INFO power supply 2 nominal
+[06/Jul/2026:02:24:13] server03 INFO config sync completed
+[06/Jul/2026:02:24:27] server03 INFO buffer utilization 74%
+[06/Jul/2026:02:24:52] server03 INFO power supply 2 nominal
+[06/Jul/2026:02:25:23] server03 INFO buffer utilization 59%
+[06/Jul/2026:02:26:03] server03 INFO packet forwarded to 10.0.4.247
+[06/Jul/2026:02:26:09] server03 INFO CRCcheck OK
+[06/Jul/2026:02:26:13] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:26:30] server03 ERROR CRC error on eth1 count=2
+[06/Jul/2026:02:26:55] server03 INFO interface eth1 up
+[06/Jul/2026:02:27:01] server03 INFO packet forwarded to 10.0.1.77
+[06/Jul/2026:02:27:05] server03 INFO Link status: UP
+[06/Jul/2026:02:27:11] server03 INFO interface eth3 up
+[06/Jul/2026:02:27:44] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:28:14] server03 INFO SLA probe ok latency 11ms
+[06/Jul/2026:02:28:18] server03 INFO CRCcheck OK
+[06/Jul/2026:02:28:37] server03 INFO Link status: UP
+[06/Jul/2026:02:28:56] server03 INFO CRC error recovered
+[06/Jul/2026:02:29:01] server03 INFO config sync completed
+[06/Jul/2026:02:29:16] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:29:39] server03 ERROR CRC error on GigE0/1 count=43
+[06/Jul/2026:02:30:15] server03 INFO interface eth0 up
+[06/Jul/2026:02:30:26] server03 INFO interface eth3 up
+[06/Jul/2026:02:30:28] server03 INFO packet forwarded to 10.0.4.186
+[06/Jul/2026:02:30:32] server03 INFO SNMP poll ok
+[06/Jul/2026:02:30:50] server03 INFO Link status: UP
+[06/Jul/2026:02:30:51] server03 INFO power supply 2 nominal
+[06/Jul/2026:02:30:58] server03 INFO interface eth2 up
+[06/Jul/2026:02:31:13] server03 INFO power supply 2 nominal
+[06/Jul/2026:02:31:16] server03 INFO SLA probe ok latency 30ms
+[06/Jul/2026:02:31:20] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:31:46] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:31:49] server03 INFO config sync completed
+[06/Jul/2026:02:32:26] server03 INFO CRC error recovered
+[06/Jul/2026:02:32:57] server03 INFO interface eth2 up
+[06/Jul/2026:02:33:00] server03 INFO buffer utilization 28%
+[06/Jul/2026:02:33:07] server03 INFO heartbeat ok
+[06/Jul/2026:02:33:18] server03 ERROR CRC ERROR on TenGigE0/0 count=45
+[06/Jul/2026:02:33:29] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:33:55] server03 INFO packet forwarded to 10.0.1.210
+[06/Jul/2026:02:34:17] server03 INFO SLA probe ok latency 21ms
+[06/Jul/2026:02:34:30] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:35:10] server03 INFO heartbeat ok
+[06/Jul/2026:02:35:26] server03 INFO BGP session established with peer 10.0.0.40
+[06/Jul/2026:02:35:47] server03 INFO buffer utilization 42%
+[06/Jul/2026:02:35:54] server03 INFO SLA probe ok latency 40ms
+[06/Jul/2026:02:36:17] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:36:21] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:36:51] server03 ERROR Link Down on eth2
+[06/Jul/2026:02:37:30] server03 INFO BGP session established with peer 10.0.3.237
+[06/Jul/2026:02:37:59] server03 INFO CRC error recovered
+[06/Jul/2026:02:38:09] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:38:40] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:38:41] server03 INFO config sync completed
+[06/Jul/2026:02:38:50] server03 INFO SNMP poll ok
+[06/Jul/2026:02:39:13] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:39:29] server03 INFO Link status: UP
+[06/Jul/2026:02:39:39] server03 INFO SLA probe ok latency 6ms
+[06/Jul/2026:02:40:08] server03 INFO config sync completed
+[06/Jul/2026:02:40:14] server03 INFO Link status: UP
+[06/Jul/2026:02:40:21] server03 INFO packet forwarded to 10.0.2.194
+[06/Jul/2026:02:40:43] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:40:57] server03 ERROR Crc Error on TenGigE0/0 count=37
+[06/Jul/2026:02:41:19] server03 INFO SNMP poll ok
+[06/Jul/2026:02:41:36] server03 INFO CRCcheck OK
+[06/Jul/2026:02:41:48] server03 INFO CRCcheck OK
+[06/Jul/2026:02:41:54] server03 INFO config sync completed
+[06/Jul/2026:02:42:18] server03 INFO SLA probe ok latency 1ms
+[06/Jul/2026:02:42:31] server03 INFO SLA probe ok latency 13ms
+[06/Jul/2026:02:42:34] server03 INFO interface eth0 up
+[06/Jul/2026:02:43:08] server03 INFO packet forwarded to 10.0.0.202
+[06/Jul/2026:02:43:30] server03 ERROR Crc Error on GigE0/2 count=17
+[06/Jul/2026:02:44:09] server03 INFO packet forwarded to 10.0.4.244
+[06/Jul/2026:02:44:43] server03 INFO packet forwarded to 10.0.0.125
+[06/Jul/2026:02:45:05] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:45:08] server03 INFO CRCcheck OK
+[06/Jul/2026:02:45:22] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:45:45] server03 INFO Link status: UP
+[06/Jul/2026:02:46:22] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:46:46] server03 INFO CRCcheck OK
+[06/Jul/2026:02:47:19] server03 ERROR CRC ERROR detected on GigE0/1
+    -> frame check sequence mismatch, 390 bad frames
+[06/Jul/2026:02:47:56] server03 INFO BGP session established with peer 10.0.0.165
+[06/Jul/2026:02:48:15] server03 INFO config sync completed
+[06/Jul/2026:02:48:21] server03 INFO BGP session established with peer 10.0.3.179
+[06/Jul/2026:02:48:29] server03 INFO heartbeat ok
+[06/Jul/2026:02:48:54] server03 INFO Link status: UP
+[06/Jul/2026:02:49:30] server03 INFO Link status: UP
+[06/Jul/2026:02:50:10] server03 INFO interface eth2 up
+[06/Jul/2026:02:50:37] server03 INFO BGP session established with peer 10.0.2.26
+[06/Jul/2026:02:51:05] server03 INFO config sync completed
+[06/Jul/2026:02:51:15] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:51:32] server03 INFO SLA probe ok latency 1ms
+[06/Jul/2026:02:51:50] server03 INFO interface eth0 up
+[06/Jul/2026:02:51:56] server03 INFO CRCcheck OK
+[06/Jul/2026:02:52:26] server03 INFO SLA probe ok latency 15ms
+[06/Jul/2026:02:52:47] server03 ERROR CRC error detected on eth2
+    -> frame check sequence mismatch, 434 bad frames
+    -> last good frame at seq 1783
+[06/Jul/2026:02:53:19] server03 INFO Link status: UP
+[06/Jul/2026:02:53:22] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:53:53] server03 INFO SNMP poll ok
+[06/Jul/2026:02:54:12] server03 INFO Link status: UP
+[06/Jul/2026:02:54:43] server03 INFO buffer utilization 75%
+[06/Jul/2026:02:55:16] server03 INFO CRCcheck OK
+[06/Jul/2026:02:55:56] server03 INFO packet forwarded to 10.0.0.40
+[06/Jul/2026:02:56:17] server03 INFO temperature nominal 41C
+[06/Jul/2026:02:56:51] server03 INFO interface eth3 up
+[06/Jul/2026:02:57:23] server03 INFO packet forwarded to 10.0.2.134
+[06/Jul/2026:02:57:28] server03 INFO heartbeat ok
+[06/Jul/2026:02:57:47] server03 INFO buffer utilization 24%
+[06/Jul/2026:02:58:20] server03 INFO SLA probe ok latency 35ms
+[06/Jul/2026:02:58:57] server03 INFO linkdown_timer reset
+[06/Jul/2026:02:59:31] server03 INFO BGP session established with peer 10.0.3.132
+[06/Jul/2026:02:59:37] server03 INFO power supply 1 nominal
+[06/Jul/2026:02:59:46] server03 ERROR crc error on GigE0/1 count=9
+[06/Jul/2026:02:59:56] server03 INFO BGP session established with peer 10.0.2.16
+[06/Jul/2026:03:00:12] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:00:27] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:00:51] server03 INFO CRCcheck OK
+[06/Jul/2026:03:01:09] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:01:10] server03 INFO SLA probe ok latency 5ms
+[06/Jul/2026:03:01:28] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:01:48] server03 INFO packet forwarded to 10.0.4.85
+[06/Jul/2026:03:02:06] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:02:30] server03 INFO heartbeat ok
+[06/Jul/2026:03:02:55] server03 INFO packet forwarded to 10.0.2.148
+[06/Jul/2026:03:03:00] server03 ERROR link down on TenGigE0/0
+    -> reason: carrier lost, autoneg failed
+    -> downtime 4s before recovery
+[06/Jul/2026:03:03:14] server03 INFO Link status: UP
+[06/Jul/2026:03:03:28] server03 INFO buffer utilization 56%
+[06/Jul/2026:03:03:33] server03 INFO buffer utilization 14%
+[06/Jul/2026:03:04:06] server03 INFO BGP session established with peer 10.0.3.146
+[06/Jul/2026:03:04:35] server03 INFO BGP session established with peer 10.0.4.97
+[06/Jul/2026:03:04:40] server03 INFO SNMP poll ok
+[06/Jul/2026:03:05:18] server03 INFO SNMP poll ok
+[06/Jul/2026:03:05:21] server03 INFO interface up, no CRC error found
+[06/Jul/2026:03:06:00] server03 ERROR CRC error on TenGigE0/0 count=17
+[06/Jul/2026:03:06:26] server03 INFO buffer utilization 39%
+[06/Jul/2026:03:06:30] server03 INFO interface up, no CRC error found
+[06/Jul/2026:03:06:42] server03 INFO CRCcheck OK
+[06/Jul/2026:03:06:53] server03 INFO interface eth1 up
+[06/Jul/2026:03:07:14] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:07:32] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:07:43] server03 INFO Link status: UP
+[06/Jul/2026:03:07:48] server03 INFO power supply 2 nominal
+[06/Jul/2026:03:07:59] server03 INFO SLA probe ok latency 26ms
+[06/Jul/2026:03:08:00] server03 INFO power supply 1 nominal
+[06/Jul/2026:03:08:32] server03 INFO buffer utilization 27%
+[06/Jul/2026:03:09:03] server03 INFO power supply 1 nominal
+[06/Jul/2026:03:09:41] server03 INFO CRCcheck OK
+[06/Jul/2026:03:09:54] server03 INFO packet forwarded to 10.0.3.64
+[06/Jul/2026:03:10:16] server03 INFO SNMP poll ok
+[06/Jul/2026:03:10:45] server03 ERROR Crc Error on eth2 count=39
+[06/Jul/2026:03:10:57] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:11:33] server03 INFO BGP session established with peer 10.0.3.211
+[06/Jul/2026:03:11:45] server03 INFO packet forwarded to 10.0.0.149
+[06/Jul/2026:03:12:05] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:12:15] server03 INFO packet forwarded to 10.0.1.204
+[06/Jul/2026:03:12:24] server03 INFO Link status: UP
+[06/Jul/2026:03:12:51] server03 INFO buffer utilization 43%
+[06/Jul/2026:03:13:02] server03 INFO BGP session established with peer 10.0.0.156
+[06/Jul/2026:03:13:10] server03 INFO Link status: UP
+[06/Jul/2026:03:13:24] server03 INFO Link status: UP
+[06/Jul/2026:03:13:34] server03 INFO interface eth0 up
+[06/Jul/2026:03:14:11] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:14:35] server03 ERROR CRC ERROR detected on TenGigE0/0
+    -> frame check sequence mismatch, 639 bad frames
+    -> last good frame at seq 6244
+[06/Jul/2026:03:15:07] server03 INFO Link status: UP
+[06/Jul/2026:03:15:44] server03 INFO power supply 1 nominal
+[06/Jul/2026:03:16:24] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:16:59] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:17:34] server03 INFO Link status: UP
+[06/Jul/2026:03:18:13] server03 INFO power supply 2 nominal
+[06/Jul/2026:03:18:18] server03 INFO SNMP poll ok
+[06/Jul/2026:03:18:33] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:18:54] server03 INFO packet forwarded to 10.0.4.22
+[06/Jul/2026:03:19:01] server03 INFO SLA probe ok latency 36ms
+[06/Jul/2026:03:19:25] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:20:02] server03 INFO buffer utilization 32%
+[06/Jul/2026:03:20:31] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:20:44] server03 ERROR Crc Error on eth1 count=37
+[06/Jul/2026:03:21:23] server03 INFO Link status: UP
+[06/Jul/2026:03:22:02] server03 INFO interface eth2 up
+[06/Jul/2026:03:22:28] server03 INFO BGP session established with peer 10.0.2.209
+[06/Jul/2026:03:22:36] server03 INFO packet forwarded to 10.0.0.142
+[06/Jul/2026:03:22:43] server03 INFO BGP session established with peer 10.0.2.118
+[06/Jul/2026:03:22:51] server03 INFO SNMP poll ok
+[06/Jul/2026:03:22:52] server03 INFO interface eth1 up
+[06/Jul/2026:03:22:55] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:23:25] server03 INFO Link status: UP
+[06/Jul/2026:03:23:38] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:23:48] server03 INFO Link status: UP
+[06/Jul/2026:03:24:03] server03 INFO CRCcheck OK
+[06/Jul/2026:03:24:10] server03 INFO SNMP poll ok
+[06/Jul/2026:03:24:17] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:24:23] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:24:49] server03 INFO config sync completed
+[06/Jul/2026:03:25:03] server03 ERROR CRC error on GigE0/1 count=22
+[06/Jul/2026:03:25:33] server03 INFO interface up, no CRC error found
+[06/Jul/2026:03:25:46] server03 INFO packet forwarded to 10.0.4.222
+[06/Jul/2026:03:26:20] server03 INFO power supply 1 nominal
+[06/Jul/2026:03:26:27] server03 INFO CRCcheck OK
+[06/Jul/2026:03:26:56] server03 INFO SLA probe ok latency 38ms
+[06/Jul/2026:03:27:23] server03 INFO Link status: UP
+[06/Jul/2026:03:27:30] server03 INFO SLA probe ok latency 2ms
+[06/Jul/2026:03:28:00] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:28:24] server03 INFO CRC error recovered
+[06/Jul/2026:03:28:48] server03 INFO heartbeat ok
+[06/Jul/2026:03:29:04] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:29:30] server03 ERROR Crc Error on GigE0/2 count=47
+[06/Jul/2026:03:29:34] server03 INFO config sync completed
+[06/Jul/2026:03:30:02] server03 INFO power supply 2 nominal
+[06/Jul/2026:03:30:32] server03 INFO BGP session established with peer 10.0.1.228
+[06/Jul/2026:03:31:06] server03 INFO CRCcheck OK
+[06/Jul/2026:03:31:09] server03 INFO Link status: UP
+[06/Jul/2026:03:31:22] server03 INFO SLA probe ok latency 30ms
+[06/Jul/2026:03:31:52] server03 INFO config sync completed
+[06/Jul/2026:03:32:02] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:32:36] server03 INFO Link status: UP
+[06/Jul/2026:03:32:50] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:33:16] server03 INFO buffer utilization 55%
+[06/Jul/2026:03:33:46] server03 INFO buffer utilization 52%
+[06/Jul/2026:03:33:58] server03 INFO SNMP poll ok
+[06/Jul/2026:03:33:59] server03 ERROR Crc Error detected on GigE0/2
+    -> frame check sequence mismatch, 716 bad frames
+    -> last good frame at seq 2733
+[06/Jul/2026:03:34:09] server03 INFO packet forwarded to 10.0.4.222
+[06/Jul/2026:03:34:38] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:34:58] server03 INFO interface eth3 up
+[06/Jul/2026:03:35:25] server03 INFO BGP session established with peer 10.0.3.99
+[06/Jul/2026:03:35:54] server03 INFO SNMP poll ok
+[06/Jul/2026:03:36:27] server03 INFO BGP session established with peer 10.0.2.245
+[06/Jul/2026:03:36:57] server03 INFO SLA probe ok latency 30ms
+[06/Jul/2026:03:36:59] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:37:33] server03 ERROR CRC error on eth1 count=19
+[06/Jul/2026:03:37:36] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:38:16] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:38:30] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:38:37] server03 INFO heartbeat ok
+[06/Jul/2026:03:38:57] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:39:29] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:39:59] server03 INFO packet forwarded to 10.0.3.222
+[06/Jul/2026:03:40:19] server03 INFO SLA probe ok latency 13ms
+[06/Jul/2026:03:40:44] server03 INFO CRC error recovered
+[06/Jul/2026:03:41:08] server03 ERROR Link Down on GigE0/2
+[06/Jul/2026:03:41:45] server03 INFO CRCcheck OK
+[06/Jul/2026:03:42:05] server03 INFO heartbeat ok
+[06/Jul/2026:03:42:39] server03 INFO BGP session established with peer 10.0.3.213
+[06/Jul/2026:03:42:47] server03 INFO power supply 2 nominal
+[06/Jul/2026:03:43:06] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:43:35] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:43:41] server03 INFO SNMP poll ok
+[06/Jul/2026:03:44:07] server03 INFO SNMP poll ok
+[06/Jul/2026:03:44:30] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:44:47] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:45:02] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:45:13] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:45:46] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:45:58] server03 INFO CRCcheck OK
+[06/Jul/2026:03:46:24] server03 INFO interface eth2 up
+[06/Jul/2026:03:46:44] server03 ERROR CRC error on eth3 count=14
+[06/Jul/2026:03:47:02] server03 INFO SLA probe ok latency 17ms
+[06/Jul/2026:03:47:19] server03 INFO linkdown_timer reset
+[06/Jul/2026:03:47:51] server03 INFO buffer utilization 27%
+[06/Jul/2026:03:48:10] server03 INFO SLA probe ok latency 10ms
+[06/Jul/2026:03:48:44] server03 INFO SLA probe ok latency 4ms
+[06/Jul/2026:03:49:21] server03 INFO SLA probe ok latency 3ms
+[06/Jul/2026:03:49:58] server03 INFO packet forwarded to 10.0.2.243
+[06/Jul/2026:03:50:16] server03 INFO CRCcheck OK
+[06/Jul/2026:03:50:23] server03 ERROR Link Down on eth2
+[06/Jul/2026:03:50:47] server03 INFO interface eth2 up
+[06/Jul/2026:03:51:04] server03 INFO packet forwarded to 10.0.2.191
+[06/Jul/2026:03:51:32] server03 INFO CRCcheck OK
+[06/Jul/2026:03:51:53] server03 INFO buffer utilization 32%
+[06/Jul/2026:03:51:54] server03 INFO config sync completed
+[06/Jul/2026:03:52:03] server03 INFO SNMP poll ok
+[06/Jul/2026:03:52:42] server03 INFO temperature nominal 41C
+[06/Jul/2026:03:53:12] server03 INFO BGP session established with peer 10.0.2.6
+[06/Jul/2026:03:53:50] server03 INFO power supply 1 nominal
+[06/Jul/2026:03:54:04] server03 INFO packet forwarded to 10.0.2.25
+[06/Jul/2026:03:54:44] server03 ERROR CRC ERROR detected on eth1
+    -> frame check sequence mismatch, 657 bad frames
+    -> last good frame at seq 8736
+[06/Jul/2026:03:55:10] server03 INFO SNMP poll ok
+[06/Jul/2026:03:55:35] server03 INFO Link status: UP
+[06/Jul/2026:03:55:55] server03 INFO SLA probe ok latency 15ms
+[06/Jul/2026:03:56:20] server03 INFO config sync completed
+[06/Jul/2026:03:56:26] server03 INFO config sync completed
+[06/Jul/2026:03:56:36] server03 INFO Link status: UP
+[06/Jul/2026:03:56:51] server03 INFO CRCcheck OK
+[06/Jul/2026:03:57:23] server03 INFO Link status: UP
+[06/Jul/2026:03:57:49] server03 INFO heartbeat ok
+[06/Jul/2026:03:58:24] server03 INFO CRCcheck OK
+[06/Jul/2026:03:59:01] server03 INFO CRCcheck OK
+[06/Jul/2026:03:59:33] server03 INFO config sync completed
+[06/Jul/2026:03:59:52] server03 INFO buffer utilization 23%
+[06/Jul/2026:04:00:13] server03 INFO power supply 2 nominal
+[06/Jul/2026:04:00:29] server03 INFO temperature nominal 41C
+[06/Jul/2026:04:00:38] server03 INFO heartbeat ok
+[06/Jul/2026:04:00:51] server03 INFO buffer utilization 66%
+[06/Jul/2026:04:01:02] server03 ERROR CRC error on eth3 count=38
+[06/Jul/2026:04:01:06] server03 INFO power supply 1 nominal
+[06/Jul/2026:04:01:39] server03 INFO temperature nominal 41C
+[06/Jul/2026:04:01:56] server03 INFO buffer utilization 56%
+[06/Jul/2026:04:02:13] server03 INFO config sync completed
+[06/Jul/2026:04:02:22] server03 INFO config sync completed
+[06/Jul/2026:04:02:38] server03 INFO heartbeat ok
+[06/Jul/2026:04:02:47] server03 INFO heartbeat ok
+[06/Jul/2026:04:03:06] server03 INFO BGP session established with peer 10.0.3.146
+[06/Jul/2026:04:03:20] server03 INFO config sync completed
+[06/Jul/2026:04:03:44] server03 INFO BGP session established with peer 10.0.3.46
+[06/Jul/2026:04:04:00] server03 INFO BGP session established with peer 10.0.3.26
+[06/Jul/2026:04:04:26] server03 INFO power supply 2 nominal
+[06/Jul/2026:04:05:03] server03 INFO CRCcheck OK
+[06/Jul/2026:04:05:08] server03 INFO config sync completed
+[06/Jul/2026:04:05:33] server03 INFO buffer utilization 25%
+[06/Jul/2026:04:05:44] server03 INFO temperature nominal 41C
+[06/Jul/2026:04:06:19] server03 ERROR link down on GigE0/1
+[06/Jul/2026:04:06:39] server03 INFO BGP session established with peer 10.0.0.71
+[06/Jul/2026:04:07:06] server03 INFO packet forwarded to 10.0.1.154
+[06/Jul/2026:04:07:21] server03 INFO packet forwarded to 10.0.2.15
+[06/Jul/2026:04:07:54] server03 INFO SLA probe ok latency 34ms
+[06/Jul/2026:04:08:00] server03 INFO heartbeat ok
+[06/Jul/2026:04:08:21] server03 INFO buffer utilization 14%
+[06/Jul/2026:04:08:39] server03 INFO packet forwarded to 10.0.3.121
+[06/Jul/2026:04:09:09] server03 INFO SNMP poll ok
+[06/Jul/2026:04:09:23] server03 INFO packet forwarded to 10.0.0.187
+[06/Jul/2026:04:09:36] server03 INFO packet forwarded to 10.0.3.42
+[06/Jul/2026:04:10:06] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:10:22] server03 INFO config sync completed
+[06/Jul/2026:04:10:45] server03 INFO buffer utilization 11%
+[06/Jul/2026:04:10:46] server03 INFO SNMP poll ok
+[06/Jul/2026:04:11:04] server03 INFO packet forwarded to 10.0.1.93
+[06/Jul/2026:04:11:33] server03 INFO Link status: UP
+[06/Jul/2026:04:11:53] server03 ERROR CRC error detected on eth2
+    -> frame check sequence mismatch, 150 bad frames
+[06/Jul/2026:04:12:22] server03 INFO CRCcheck OK
+[06/Jul/2026:04:12:23] server03 INFO SLA probe ok latency 8ms
+[06/Jul/2026:04:13:00] server03 INFO Link status: UP
+[06/Jul/2026:04:13:27] server03 INFO SLA probe ok latency 25ms
+[06/Jul/2026:04:13:44] server03 INFO Link status: UP
+[06/Jul/2026:04:14:23] server03 INFO heartbeat ok
+[06/Jul/2026:04:14:55] server03 INFO packet forwarded to 10.0.1.146
+[06/Jul/2026:04:15:29] server03 INFO temperature nominal 41C
+[06/Jul/2026:04:15:35] server03 INFO SNMP poll ok
+[06/Jul/2026:04:16:12] server03 INFO interface eth0 up
+[06/Jul/2026:04:16:37] server03 INFO SLA probe ok latency 20ms
+[06/Jul/2026:04:17:00] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:17:34] server03 INFO buffer utilization 75%
+[06/Jul/2026:04:18:10] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:18:44] server03 INFO packet forwarded to 10.0.1.226
+[06/Jul/2026:04:19:22] server03 ERROR CRC Error on TenGigE0/0 count=25
+[06/Jul/2026:04:19:51] server03 INFO SLA probe ok latency 4ms
+[06/Jul/2026:04:20:23] server03 INFO interface eth1 up
+[06/Jul/2026:04:20:34] server03 INFO SNMP poll ok
+[06/Jul/2026:04:21:12] server03 INFO BGP session established with peer 10.0.0.148
+[06/Jul/2026:04:21:24] server03 INFO Link status: UP
+[06/Jul/2026:04:21:57] server03 INFO interface eth2 up
+[06/Jul/2026:04:22:14] server03 INFO BGP session established with peer 10.0.2.61
+[06/Jul/2026:04:22:42] server03 INFO CRCcheck OK
+[06/Jul/2026:04:22:56] server03 INFO SLA probe ok latency 23ms
+[06/Jul/2026:04:23:18] server03 INFO interface up, no CRC error found
+[06/Jul/2026:04:23:25] server03 INFO buffer utilization 71%
+[06/Jul/2026:04:23:52] server03 INFO config sync completed
+[06/Jul/2026:04:24:20] server03 INFO CRCcheck OK
+[06/Jul/2026:04:24:26] server03 ERROR Link Down on eth0
+[06/Jul/2026:04:24:56] server03 INFO SNMP poll ok
+[06/Jul/2026:04:25:21] server03 INFO interface eth2 up
+[06/Jul/2026:04:25:47] server03 INFO packet forwarded to 10.0.1.118
+[06/Jul/2026:04:26:13] server03 INFO temperature nominal 41C
+[06/Jul/2026:04:26:52] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:27:10] server03 INFO BGP session established with peer 10.0.2.227
+[06/Jul/2026:04:27:38] server03 INFO power supply 1 nominal
+[06/Jul/2026:04:27:57] server03 INFO BGP session established with peer 10.0.2.9
+[06/Jul/2026:04:28:36] server03 INFO SLA probe ok latency 24ms
+[06/Jul/2026:04:29:11] server03 ERROR crc error on eth2 count=11
+[06/Jul/2026:04:29:28] server03 INFO BGP session established with peer 10.0.0.107
+[06/Jul/2026:04:30:01] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:30:12] server03 INFO SLA probe ok latency 11ms
+[06/Jul/2026:04:30:31] server03 INFO packet forwarded to 10.0.2.93
+[06/Jul/2026:04:30:54] server03 INFO SNMP poll ok
+[06/Jul/2026:04:31:30] server03 INFO temperature nominal 41C
+[06/Jul/2026:04:32:03] server03 INFO BGP session established with peer 10.0.1.25
+[06/Jul/2026:04:32:14] server03 INFO packet forwarded to 10.0.0.187
+[06/Jul/2026:04:32:25] server03 INFO power supply 2 nominal
+[06/Jul/2026:04:32:38] server03 INFO packet forwarded to 10.0.2.20
+[06/Jul/2026:04:32:39] server03 INFO power supply 1 nominal
+[06/Jul/2026:04:33:08] server03 INFO buffer utilization 40%
+[06/Jul/2026:04:33:28] server03 INFO power supply 2 nominal
+[06/Jul/2026:04:33:53] server03 INFO BGP session established with peer 10.0.0.29
+[06/Jul/2026:04:34:19] server03 ERROR crc error on eth3 count=9
+[06/Jul/2026:04:34:38] server03 INFO power supply 1 nominal
+[06/Jul/2026:04:34:39] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:35:16] server03 INFO interface eth0 up
+[06/Jul/2026:04:35:38] server03 INFO buffer utilization 32%
+[06/Jul/2026:04:36:09] server03 INFO CRCcheck OK
+[06/Jul/2026:04:36:33] server03 INFO SNMP poll ok
+[06/Jul/2026:04:36:49] server03 INFO linkdown_timer reset
+[06/Jul/2026:04:37:14] server03 INFO Link status: UP
+[06/Jul/2026:04:37:24] server03 INFO SLA probe ok latency 8ms
+[06/Jul/2026:04:37:30] server03 INFO === log end (server03) ===
