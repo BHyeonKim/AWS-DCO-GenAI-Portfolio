@@ -168,6 +168,35 @@ def build_markdown_report(entries):
         lines.append("CRC 에러, 링크 다운, 티켓 에스컬레이션 관련 로그가 없습니다.")
     lines.append("")
 
+    # AI 활용 기록 (수업 과제 요구사항 - 수강생이 직접 작성/보완하는 항목)
+    lines.append("---")
+    lines.append("")
+    lines.append("## [ AI 활용 기록 ]")
+    lines.append("")
+    lines.append("### 1. 사용한 도구")
+    lines.append("")
+    lines.append("- Claude Code (Sonnet 5) — 로그 분석 Python 스크립트(`log_parser.py`) 초안 작성 및 결과 리포트 생성")
+    lines.append("")
+    lines.append("### 2. AI가 생성한 내용 중 발견한 오류 또는 부족한 점")
+    lines.append("")
+    lines.append(
+        "- 초기 버전에서는 '주요 이벤트 요약'을 이벤트명과 메시지를 합쳐서 키워드로 검색했는데, "
+        "그 결과 정상 복구를 알리는 하트비트 메시지(`0 CRC errors`)까지 CRC_ERROR로 잘못 분류되는 "
+        "오탐(false positive)이 발생했습니다."
+    )
+    lines.append(
+        "- 메시지 대신 이벤트명만 검사하도록 수정해서 오탐을 제거했습니다. "
+        "AI가 만든 로직을 그대로 신뢰하지 않고 결과를 직접 확인하는 과정이 필요했습니다."
+    )
+    lines.append("")
+    lines.append("### 3. AI 결과에서 원본 자료와 다르거나 설명이 부족했던 부분")
+    lines.append("")
+    lines.append(
+        "- (직접 작성) 원본 로그와 대조했을 때 실제로 다르거나 설명이 부족했던 부분을 이곳에 적어주세요. "
+        "예: 특정 심각도/이벤트 분류 기준, 표에 포함되지 않은 항목, 요약이 생략한 맥락 등."
+    )
+    lines.append("")
+
     return "\n".join(lines)
 
 
