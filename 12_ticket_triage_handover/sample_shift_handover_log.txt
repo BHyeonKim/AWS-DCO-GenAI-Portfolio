@@ -1,0 +1,40 @@
+2026-07-10 06:30:00 | SAMPLE_TOR_SW_03 | INFO | NORMAL_HEARTBEAT | Sample switch status is healthy.
+
+2026-07-10 06:38:00 | SAMPLE_TOR_SW_03 | WARNING | LINK_FLAP_DETECTED | Sample interface Gi0/24 changed state 4 times within 10 minutes.
+2026-07-10 06:42:00 | SAMPLE_TOR_SW_03 | ERROR | LINK_DOWN | Sample interface Gi0/24 changed to DOWN. Two educational sample servers became temporarily unreachable.
+2026-07-10 06:44:00 | EDU-TKT-2026-0201 | INFO | TICKET_OPENED | Educational ticket opened for SAMPLE_TOR_SW_03 Gi0/24.
+2026-07-10 06:48:00 | SAMPLE_TOR_SW_03 | INFO | LINK_UP | Sample interface Gi0/24 returned to UP.
+2026-07-10 07:05:00 | SAMPLE_TOR_SW_03 | WARNING | LINK_FLAP_DETECTED | One additional state change was recorded after Link Up.
+2026-07-10 07:35:00 | EDU-TKT-2026-0201 | WARNING | STATUS_OPEN | Service is currently available, but the repeated state change has not been explained.
+
+2026-07-10 06:50:00 | SAMPLE_RACK_PDU_05A | WARNING | INPUT_VOLTAGE_WARNING | Sample input feed A voltage moved outside the educational normal range.
+2026-07-10 06:52:00 | SAMPLE_RACK_PDU_05B | INFO | REDUNDANT_FEED_ACTIVE | Sample feed B remains available. No service interruption is recorded.
+2026-07-10 06:55:00 | EDU-TKT-2026-0202 | INFO | TICKET_OPENED | Educational ticket opened for sample rack power status review.
+2026-07-10 07:00:00 | EDU-TKT-2026-0202 | WARNING | TICKET_ESCALATED | Educational ticket escalated for additional facilities-context review.
+2026-07-10 07:25:00 | SAMPLE_RACK_PDU_05A | WARNING | INPUT_VOLTAGE_WARNING | Warning remains present. Six educational sample servers are associated with the rack.
+2026-07-10 07:40:00 | EDU-TKT-2026-0202 | WARNING | STATUS_OPEN | No outage is recorded, but normal dual-feed status has not been restored.
+
+2026-07-10 07:02:00 | EDU_SRV_R02_N08 | WARNING | SSD_PREDICTIVE_FAILURE | Sample SSD Slot 2 reported a predictive failure warning.
+2026-07-10 07:04:00 | EDU_SRV_R02_N08 | INFO | STORAGE_REDUNDANCY_ACTIVE | Educational storage mirror is shown as active.
+2026-07-10 07:06:00 | EDU_SRV_R02_N08 | INFO | SERVICE_AVAILABLE | Educational sample service remains available.
+2026-07-10 07:08:00 | EDU-TKT-2026-0203 | INFO | TICKET_OPENED | Educational ticket opened for SSD status review.
+2026-07-10 07:30:00 | EDU-TKT-2026-0203 | INFO | STATUS_MONITORING | Maintenance schedule and replacement timing are not yet recorded.
+
+2026-07-10 07:10:00 | DEMO_CORE_SW_04 | WARNING | FAN_RPM_LOW | Sample fan module 1 RPM dropped below the educational warning threshold.
+2026-07-10 07:13:00 | EDU-TKT-2026-0204 | INFO | TICKET_OPENED | Educational ticket opened for fan status monitoring.
+2026-07-10 07:16:00 | DEMO_CORE_SW_04 | INFO | TEMPERATURE_STABLE | Sample chassis temperature remains within the educational normal range.
+2026-07-10 07:22:00 | DEMO_CORE_SW_04 | INFO | FAN_RPM_RECOVERED | Sample fan module 1 RPM returned to the educational normal range.
+2026-07-10 07:28:00 | EDU-TKT-2026-0204 | INFO | STATUS_RESOLVED | Fan alert is recorded as resolved.
+
+2026-07-10 07:45:00 | EDU_SRV_R03_N02 | INFO | NORMAL_HEARTBEAT | Educational sample server status is healthy.
+2026-07-10 07:48:00 | SAMPLE_ROOM_SENSOR_02 | INFO | TEMPERATURE_NORMAL | Educational room temperature remains within the sample normal range.
+
+2026-07-10 07:50:00 | EDU_SHIFT_A | INFO | HANDOVER_STARTED | Educational shift handover preparation started.
+2026-07-10 07:51:00 | EDU_SHIFT_A | INFO | OPEN_TICKETS | Open tickets: EDU-TKT-2026-0201, EDU-TKT-2026-0202.
+2026-07-10 07:52:00 | EDU_SHIFT_A | INFO | MONITORING_TICKETS | Monitoring ticket: EDU-TKT-2026-0203.
+2026-07-10 07:53:00 | EDU_SHIFT_A | INFO | RESOLVED_TICKETS | Resolved ticket: EDU-TKT-2026-0204.
+2026-07-10 07:55:00 | EDU_SHIFT_A | INFO | HANDOVER_NOTE_REQUIRED | The next learner must review current impact, unresolved risk, missing information and ticket priority.
+
+EDUCATIONAL SAMPLE DATA
+This file is designed only for public DCO job-context learning.
+It does not contain real AWS systems, devices, tickets or operational procedures.
