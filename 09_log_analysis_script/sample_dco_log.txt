@@ -1,0 +1,140 @@
+2026-07-03 00:00:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:01:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:02:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:05:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:06:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:07:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:10:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:11:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:12:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:15:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:16:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:17:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:20:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:21:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:22:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:25:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:26:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:27:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:30:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:31:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:32:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:35:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:36:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:37:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:40:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:41:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:42:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:45:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:46:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:47:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:50:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:51:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:52:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 00:55:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 00:56:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 00:57:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:00:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:01:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:02:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:05:00 | DEMO_CORE_SW_02 | WARNING | Fan Alert | Fan module 2 RPM dropped to 15% (Below threshold 20%). IP: 198.51.100.2
+2026-07-03 01:06:00 | DEMO_CORE_SW_02 | INFO | Ticket opened | Ticket EDU-TKT-2026-0001 created for Fan module 2 failure alert.
+2026-07-03 01:10:00 | DEMO_CORE_SW_02 | INFO | Ticket escalated | Ticket EDU-TKT-2026-0001 escalated to Local Infrastructure Team.
+2026-07-03 01:15:00 | DEMO_CORE_SW_02 | INFO | Maintenance completed | Fan module 2 hot-swap replacement successfully completed.
+2026-07-03 01:16:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. Fan 2 RPM restored to 95%. IP: 198.51.100.2
+2026-07-03 01:20:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:21:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:25:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:26:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:27:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:30:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:31:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:32:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:35:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:36:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:37:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:40:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:41:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:42:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:45:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:46:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:47:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:50:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:51:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:52:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 01:55:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 01:56:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 01:57:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:00:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:01:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 02:02:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:05:00 | EDU_SRV_R04_N12 | WARNING | Temperature warning | Chassis temperature reached 42C (Threshold: 40C). IP: 192.0.2.12
+2026-07-03 02:10:00 | EDU_SRV_R04_N12 | ERROR | SSD failure warning | Drive Slot 3 SSD wearout indicator FAILING (SMART wear 96%). IP: 192.0.2.12
+2026-07-03 02:11:00 | EDU_SRV_R04_N12 | INFO | Ticket opened | Ticket EDU-TKT-2026-0002 created for server SSD replacement schedule.
+2026-07-03 02:15:00 | EDU_SRV_R04_N12 | INFO | Ticket escalated | Ticket EDU-TKT-2026-0002 escalated to DCO Hardware Support.
+2026-07-03 02:25:00 | EDU_SRV_R04_N12 | INFO | Maintenance completed | Failed SSD in Slot 3 swapped with new drive. RAID rebuild started.
+2026-07-03 02:26:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. Slot 3 SSD state: OK, rebuild 15%. IP: 192.0.2.12
+2026-07-03 02:30:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:31:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. Temp resolved (36C). IP: 192.0.2.12
+2026-07-03 02:32:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:35:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:36:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 02:37:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:40:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:41:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 02:42:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:45:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:46:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 02:47:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:50:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:51:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 02:52:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 02:55:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 02:56:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 02:57:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:00:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 03:01:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:02:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:05:00 | SAMPLE_TOR_SW_01 | WARNING | CRC error 증가 | Interface Gi0/1 CRC error counter increased to 154 within 5 minutes. IP: 192.0.2.1
+2026-07-03 03:06:00 | SAMPLE_TOR_SW_01 | ERROR | Link Down | Interface Gi0/1 status changed to DOWN. Connection to server lost.
+2026-07-03 03:07:00 | SAMPLE_TOR_SW_01 | INFO | Ticket opened | Ticket EDU-TKT-2026-0003 created for Gi0/1 port offline.
+2026-07-03 03:12:00 | SAMPLE_TOR_SW_01 | INFO | Ticket escalated | Ticket EDU-TKT-2026-0003 escalated to Onsite Cabling Team.
+2026-07-03 03:25:00 | SAMPLE_TOR_SW_01 | INFO | Maintenance completed | LC-LC multi-mode patch cord cable swapped, port connectors cleaned.
+2026-07-03 03:26:00 | SAMPLE_TOR_SW_01 | INFO | Link Up | Interface Gi0/1 status changed to UP. Line protocol status is UP.
+2026-07-03 03:30:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. Interface Gi0/1 running with 0 CRC errors. IP: 192.0.2.1
+2026-07-03 03:31:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:32:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:35:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 03:36:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:37:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:40:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 03:41:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:42:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:45:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 03:46:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:47:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:50:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 03:51:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:52:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 03:55:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 03:56:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 03:57:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:00:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 04:01:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 04:02:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:05:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 04:06:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 04:07:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:10:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 04:11:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 04:12:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:15:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 04:16:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 04:17:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:20:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 04:21:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 04:22:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:25:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
+2026-07-03 04:26:00 | EDU_SRV_R04_N12 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.12
+2026-07-03 04:27:00 | DEMO_CORE_SW_02 | INFO | Normal heartbeat | System status is healthy. IP: 198.51.100.2
+2026-07-03 04:30:00 | SAMPLE_TOR_SW_01 | INFO | Normal heartbeat | System status is healthy. IP: 192.0.2.1
